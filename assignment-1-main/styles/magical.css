@@ -46,9 +46,18 @@
 .section{
     background-color: rgb(255, 254, 254);
     background-repeat: no-repeat;
-    background-position: bottom right, left;
-    
 }
+.section-img img{
+    height: 400px;
+}
+/* .section-failure1{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-90%,-50%);
+    
+} */
 .failure{
     display: flex;
     align-items: center;
